@@ -1,0 +1,11 @@
+{
+  "bet_id": 1,
+  "event": "World Cup 2018",
+  "name": "England",
+  "odds": {
+    "numerator": 10,
+    "denominator": 1
+  },
+  "stake": 10,
+  "transaction_id": 314442
+}
